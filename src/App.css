@@ -1,0 +1,14 @@
+.block {
+  border: 1px solid;
+  padding: 21px;
+  background: #dcf4f8;
+  position: relative;
+  display: block;
+  float: left;
+}
+
+.block img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
